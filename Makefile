@@ -94,7 +94,11 @@ doctest:
 
 # TODO: allow argument so you can choose language you are uploading for
 upload:
-	s3cmd sync --acl-public --delete-removed $(BUILDDIR)/html/$(lang)/ s3://opendatamanual.org/$(lang)/
+	ifeq ($(lang), en)
+		s3cmd sync --acl-public --delete-removed $(BUILDDIR)/html/$(lang)/ s3://opendatamanual.org/
+	else
+		s3cmd sync --acl-public --delete-removed $(BUILDDIR)/html/$(lang)/ s3://opendatamanual.org/$(lang)/
+	endif
 	@echo "Uploaded html to website"
 
 TRANSLATIONDIR = translation
