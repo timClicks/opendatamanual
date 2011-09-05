@@ -50,7 +50,8 @@ This manual has a broad audience:
 
 Most of the information provided currently is focused on data held by 
 the public sector. However, the authors intentions are to broaden this 
-as time permits. You are welcome to participate to help us with that effort.
+as time permits. You are welcome to participate to help us with that 
+effort.
 
 This manual is intended for those with little or no knowledge of the 
 topic. If you do find a piece of jargon or terminology with which you 

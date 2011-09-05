@@ -2,12 +2,12 @@
 Making things! Hackdays, prizes and prototypes
 ==============================================
 
-The structure of these competitions is that a number of datasets are 
-released and programmers participate within a short time-frame, running 
-from as little as 48 hours to a few weeks, to develop applications. 
-A prize is then awarded to the best application. Competitions have 
-been held in a number of countries including the UK, the US, Norway, 
-Australia, Spain, Denmark and Finland.
+The structure of these competitions is that a number of datasets 
+are released and programmers participate within a short time-frame, 
+running from as little as 48 hours to a few weeks, to develop 
+applications. A prize is then awarded to the best application. 
+Competitions have been held in a number of countries including 
+the UK, the US, Norway, Australia, Spain, Denmark and Finland.
 	
 Examples for Competitions
 =========================
@@ -64,27 +64,28 @@ was NOK 28.4 million.
 citizens to show why open access to Australian government information 
 would be positive for the country’s economy and social development. 
 The contest ran from October 7th to November 13th 2009. The Taskforce 
-released some datasets under an open licence and in a range of 
-reusable formats. The 82 applications that entered into the contest 
-are further evidence of the new and innovative applications which can 
-result from releasing government data on open terms. 	
+released some datasets under an open licence and in a range of reusable 
+formats. The 82 applications that entered into the contest are further 
+evidence of the new and innovative applications which can result from 
+releasing government data on open terms. 	
 
 Conferences, Barcamps, Hackdays
 ===============================
 
-One of the more effective ways for Civil Society Organisations (CSO) to 
-demonstrate to governments the value of opening up their datasets is to 
-show the multiple ways in which the information can be managed to 
-achieve the social and economic advantages. CSOs that promote reuse have 
-been instrumental in countries where there have been advances in policy 
-and law to ensure that datasets are both technically and legally open.
+One of the more effective ways for Civil Society Organisations (CSO) 
+to demonstrate to governments the value of opening up their datasets 
+is to show the multiple ways in which the information can be managed 
+to achieve the social and economic advantages. CSOs that promote reuse 
+have been instrumental in countries where there have been advances in 
+policy and law to ensure that datasets are both technically and legally 
+open.
 
 The typical activities which are undertaken as part of these initiatives 
 normally include competitions, :term:`open government data` conferences, 
 “unconferences”, workshops and “hack days”. These activities are often 
-organised by the user community with data that has already been published 
-proactively or obtained using access to information requests. In other 
-cases civil society advocates have worked with progressive public 
-officials to secure new release of datasets that can be used by 
-programmers to create innovative applications.
+organised by the user community with data that has already been 
+published proactively or obtained using access to information requests. 
+In other cases civil society advocates have worked with progressive 
+public officials to secure new release of datasets that can be used 
+by programmers to create innovative applications.
 

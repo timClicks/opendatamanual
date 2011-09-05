@@ -10,7 +10,7 @@ purposes open data is as defined by the `Open Definition`_:
     and sharealike.
 
 The `full Open Definition`_ gives precise details as to what this means, 
-but to summarize the most important:
+but to summarize the most important points:
 
 -  **Availability and Access:** the data must be available as a whole
    and at no more than a reasonable reproduction cost, preferably

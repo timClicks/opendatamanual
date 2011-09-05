@@ -2,22 +2,21 @@
 Why Open Data?
 ==============
 
-:term:`Open data`, especially :term:`open government data`, are a 
-tremendous resource that is largely untapped. Many different 
-individuals and organisations collect a broad range of different 
-types of data to be able to perform their tasks. Government is 
-particularly significant in this regard, both because of the quantity 
-and centrality of the data they collect, but also because of all that 
-government data, most is public data by law, and therefore could be 
-made open and made available for others to use. Why is that of interest? 
+:term:`Open data`, especially :term:`open government data`, 
+are a tremendous resource that is largely untapped. Many different 
+individuals and organisations collect a broad range of different types 
+of data to be able to perform their tasks. Government is particularly 
+significant in this regard, both because of the quantity and centrality 
+of the data they collect, but also because of all that government data, 
+most is public data by law, and therefore could be made open and made 
+available for others to use. Why is that of interest? 
 
-
-There are many areas where we can expect open data to be of value, and 
-where examples already exist. There are also many different groups of 
-people and organisations who can benefit from the availability of open 
-data, including government itself. At the same time it is impossible 
-to predict precisely how and where value will be created. The nature 
-of innovation and new things is that it will come from unlikely places. 
+There are many areas where we can expect open data to be of value, 
+and where examples already exist. There are also many different groups 
+of people and organisations who can benefit from the availability of 
+open data, including government itself. At the same time it is impossible 
+to predict precisely how and where value will be created. The nature of 
+innovation and new things is that it will come from unlikely places. 
 
 It is already possible to point to a large number of areas where open 
 government data is creating value, and there are likely more. Some of 
@@ -31,7 +30,8 @@ these areas are:
 * Improved efficiency of government services
 * Improved effectiveness of government services
 * Impact measurement of policies
-* New knowledge from combined data sources and patterns in large data volumes
+* New knowledge from combined data sources and patterns in large data 
+  volumes
 
 
 Examples exist for most of these areas. 
@@ -70,27 +70,28 @@ improving its quality of service.
 Also for government itself open data is of value. Efficiency can be 
 increased for instance. The Dutch Ministry of Education has published 
 all of their education related data on-line for re-use. Since then the 
-number of questions they receive has dropped reducing work load and costs,
-but the remaining questions now are easier to answer for civil servants as 
-well, because it is clear where the relevant data to answer those questions 
-can be found. Open data is also making government more effective, which 
-ultimately also reduces costs. The Dutch department for cultural heritage 
-is actively releasing their data and collaborating with amateur historical 
-societies and groups like the Wikimedia Foundation to execute their own 
-tasks more effectively. This not only results in improvements of the 
-quality of their data, but will also make the department smaller. 
+number of questions they receive has dropped reducing work load and 
+costs, but the remaining questions now are easier to answer for civil 
+servants as well, because it is clear where the relevant data to answer 
+those questions can be found. Open data is also making government more 
+effective, which ultimately also reduces costs. The Dutch department 
+for cultural heritage is actively releasing their data and collaborating 
+with amateur historical societies and groups like the 
+Wikimedia Foundation to execute their own tasks more effectively. 
+This not only results in improvements of the quality of their data, 
+but will also make the department smaller. 
 
 While there are numerous instances where open data is already creating 
 both social and economical value in very diverse ways, at the same time 
 we don’t know yet what new things will become possible. New combinations 
 of data can create new knowledge and insights, that lead to whole new 
-fields of application. We have seen that in the past, such as when Dr. 
-Snow in London discovered the relationship between drinking water 
+fields of application. We have seen that in the past, such as when 
+Dr. Snow in London discovered the relationship between drinking water 
 pollution and cholera in the 19th century, by combining data about 
 cholera deaths with the location of water wells. This led to the building 
 of London’s sewage systems, and meant a huge improvement in general 
-health of the population. We will likely see that as well when 
-unexpected insights flow from combining open data sets.
+health of the population. We will likely see that as well when unexpected 
+insights flow from combining open data sets.
 
 This untapped potential can be unleashed if we turn public government 
 data into open data. Only, however, if it is really open, so if there 
