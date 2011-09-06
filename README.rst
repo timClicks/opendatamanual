@@ -54,7 +54,6 @@ Outline::
 
   opendatamanual/
     source/
-    bin/
     build/
     translation/
 
@@ -63,8 +62,6 @@ Details:
 | ``opendatamanual`` is the base directory.
 |
 |    ``source`` is where we keep the plain text source files.
-|
-|    ``bin`` is short for binaries, or executable commands. This folder keeps holds handy scripts.
 |
 |    ``build`` is where rendered, or "built", HTML files live.  
 |
