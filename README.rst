@@ -11,6 +11,9 @@ translation, feedback, editing or adding more content. If you just want
 to read the manual, then please head over to the 
 http://opendatamanual.org/.
 
+.. _Open Data Manual: http://opendatamanual.org/
+.. _Open Knowledge Foundation: http://okfn.org/
+.. _Sphinx: http://sphinx.pocoo.org/
 
 Contributing
 ------------
@@ -147,7 +150,4 @@ Building a translation of the manual
     make html lang={lang}
 
 
-.. _Open Data Manual: http://opendatamanual.org/
-.. _Open Knowledge Foundation: http://okfn.org/
-.. _Sphinx: http://sphinx.pocoo.org/
 
