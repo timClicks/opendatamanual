@@ -1,3 +1,7 @@
+==============================
+Making Personal Data Anonymous
+==============================
+
 Governments hold lots of personally identifiable and commercially sensitive 
 information. This sensitive information necessarily restricts agencies’ 
 ability to share this information as open data. This article will go some 
@@ -132,7 +136,7 @@ right-hand column.
     159 cm    152 cm
     161 cm    164 cm
     167 cm    164 cm
-    =======   =========
+    ======    =========
 
 
 There may be problems with this approach, as you will impact on the 
