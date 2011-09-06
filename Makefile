@@ -99,9 +99,12 @@ doctest:
 	      "results in $(BUILDDIR)/doctest/output.txt."
 
 upload:
-	s3cmd sync --acl-public --delete-removed $(BUILDDIR)/html/$(lang)/ s3://opendatamanual.org/$(lang)/
-	@echo
-	@echo "Uploaded html for $(lang) to website"
+	ifeq ($(lang), en)
+		s3cmd sync --acl-public --delete-removed $(BUILDDIR)/html/$(lang)/ s3://opendatamanual.org/
+	else
+		s3cmd sync --acl-public --delete-removed $(BUILDDIR)/html/$(lang)/ s3://opendatamanual.org/$(lang)/
+	endif
+	@echo "Uploaded html to website"
 
 gettext:
 	$(SPHINXBUILD) -b gettext source build/i18npot
