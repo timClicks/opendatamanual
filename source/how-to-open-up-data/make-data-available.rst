@@ -2,10 +2,9 @@
 Make Data Available (Technical Openness)
 ========================================
 
-
 :term:`Open data` needs to be technically open as well as legally open. 
-Specifically, the data needs be available in bulk in a :term:`machine-readable` 
-format.
+Specifically, the data needs to be available in bulk in a 
+:term:`machine-readable` format.
 
 Available
   Data should be priced at no more than a reasonable cost of reproduction, 
@@ -21,27 +20,27 @@ In bulk
 
 In an open, machine-readable format
   Re-use of data held by the public sector should not be subject to patent
-  restrictions. More importantly, making sure that you are providng 
+  restrictions. More importantly, making sure that you are providing 
   machine-readable formats allows for greatest re-use. To illustrate this,
-  consider statistics published as :abbr:`PDF (Portable Document Format, 
-  often used for high quality printing)` documents. While these statistics
-  can be read by humans, they are very hard for a computer to use. This
-  greatly limits the ability for others to reuse that data.
+  consider statistics published as :abbr:`PDF (Portable Document 
+  Format)` documents, often used for high quality printing. While these 
+  statistics can be read by humans, they are very hard for a computer to 
+  use. This greatly limits the ability for others to reuse that data.
 
 Here are a few policies that will be of great benefit:
 
 * keep it simple, 
 * move fast, and 
-* be pragmatic
+* be pragmatic.
 
 In particular it is better to give out raw data now than perfect data in 
 six months' time.
 
 There are many different ways to make data available to others. The most 
 natural in the Internet age being online publication. There are many
-variations tor this model. At its most basic, agencies make their data 
+variations to this model. At its most basic, agencies make their data 
 available via their websites and a central catalogue directs visitors
-to appropriate the appropriate source.  However, there are alternatives.
+to the appropriate source.  However, there are alternatives.
 
 When :term:`connectivity` is limited or the size of the data are extremely 
 large, distribution via other formats, can be warranted. This section will 
@@ -118,9 +117,9 @@ wonderfully efficient way to distribute very large volumes of data.
 as an API
 ---------
 
-Data can be published via an :term:`Application Programming Interface` (API). 
-These interfaces have become very popular. They allow programmers to
-select specific portions of the data at a time, rather than providing
+Data can be published via an :term:`Application Programming Interface` 
+(API). These interfaces have become very popular. They allow programmers 
+to select specific portions of the data at a time, rather than providing
 all of the data in bulk as a large file. APIs are typically connected
 to a database which is being updated in real-time. This means that 
 making information available via an API can ensure that it is up to 
@@ -139,7 +138,7 @@ Access to bulk data ensures that:
 
 a) there is no dependency on the original provider of the data, meaning
    if a restructure or budget cycle changes the situation, the data are
-   still available
+   still available.
 b) anyone else can obtain a copy and redistribute it. This reduces the
    cost of distribution away from the source agency and means that there
    is no single point of failure.
@@ -147,8 +146,8 @@ c) others can develop their own services using the data, because they
    have certainty that the data will not be taken away from them.
 
 Providing data in bulk allows others to use the data beyond its original
-purposes. For example, it allows conversion it into a new format, linking 
-with other resources, data to be versioned and archival in multiple 
+purposes. For example, it allows converting it into a new format, linking 
+with other resources, data to be versioned and archived in multiple 
 places. While the latest version of the data may be made available via 
 an API, raw data should be made available in bulk at regular intervals.
 
@@ -164,31 +163,32 @@ feeds of the data.
 via the data access protocol
 ----------------------------
 
-:term:`DAP` (Data Access Protocol) is a system for data transfer that was
-developed for use in meterology and climate science. The system was 
+:term:`DAP` (Data Access Protocol) is a system for data transfer that 
+was developed for use in meterology and climate science. The system was 
 designed to enable third-parties to access sections of databases stored
 in some central location. Despite its origins in a particular field, the 
 technology is very generic and can be adapted for data transfer in any 
 area.
 
 Implementing this technology can enable your agency to be experimental 
-with its knowledge. For example, Australia's `Bureau of Meteorology Research Centre`_ 
-provides the following disclaimer on its material:
+with its knowledge. For example, Australia's 
+`Bureau of Meteorology Research Centre`_ provides the following disclaimer 
+on its material:
 
     Please note that the following products ... do not currently form
     part of the Bureau's standard services in any way.
 
-This example demonstrates that it is possible to provide data in raw form 
-without incurring liability for others' use of that data.
+This example demonstrates that it is possible to provide data in raw 
+form without incurring liability for others' use of that data.
 
  .. _Bureau of Meteorology Research Centre: http://opendap.bom.gov.au/index.shtml
 
 via WebDAV
 ----------
 
-`WebDAV`_, or Web-based Distributed Authoring and Versioning, is an attempt at
-making the internet a read/write medium. It is a widely supported open standard
-that supports locking and distributed authorship. 
+`WebDAV`_, or Web-based Distributed Authoring and Versioning, is an 
+attempt at making the internet a read/write medium. It is a widely 
+supported open standard that supports locking and distributed authorship. 
 
 Providing a service such as this could be useful for situations
 where your agency would like to handle receiving improvements to data that 
