@@ -7,4 +7,4 @@ Appendices
 
    file-formats
    what-legal-ip-rights-are-there-in-databases
-   making-data-anonymous
+   making-personal-data-anonymous
