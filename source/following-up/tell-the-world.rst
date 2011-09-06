@@ -111,6 +111,5 @@ suggestions:
   in this area.
 
   These sites have a tendency of driving signficiant traffic to 
-  interesting material. They are also heavily focused on topic areas. 
-  Therefore, you
+  interesting material. They are also heavily focused on topic areas.
 
