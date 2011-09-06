@@ -8,3 +8,4 @@ Appendices
    file-formats
    what-legal-ip-rights-are-there-in-databases
    making-personal-data-anonymous
+   barriers-and-solutions-to-opening-data

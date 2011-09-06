@@ -5,9 +5,24 @@ Glossary
 .. glossary::
   :sorted:
 
+  JSON
+    A data exchange format that is often used on the web.
+
+  KML
+    The Keyhole Markup Language, used for geospatial data exchange.
+
+  XML
+    A well understood text format for data and document exchange.
+
+  Open
+    See `opendefinition.org`_.
+
+  PSB
+    Public sector body.
+
   Open Data
     Open data are able to be used for any purpose. More details can be 
-    read at `opendefinition.org <http://www.opendefinition.org/>`_.
+    read at `opendefinition.org`_.
 
   Machine-readable
     Formats that are machine readable are ones which are
@@ -182,3 +197,6 @@ Glossary
     Tab-seperated values (TSV) are a very common form of text file
     format for sharing tabular data. The format is extremely simple
     and highly :term:`machine-readable`.
+
+
+.. _opendefinition.org: http://opendefinition.org/
